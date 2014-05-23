@@ -4,4 +4,8 @@
 		<item value="119" key="DIALOG_Y_ORIGIN"/>
 		<item value="69" key="DIALOG_X_ORIGIN"/>
 	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
 </section>
